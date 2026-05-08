@@ -1,5 +1,6 @@
-**Hybrid Movie Recommender System**
-A full-stack Machine Learning project that builds a Hybrid Movie Recommender System using the MovieLens 100K dataset. The system combines Collaborative Filtering and Content-Based Filtering to provide personalised movie recommendations.
+**Movie Recommender**
+
+A Hybrid Movie Recommender System that lets users search movies, rate them and get personalised recommendations. Built with Collaborative Filtering (SVD), Content-Based Filtering (TF-IDF) and a Hybrid approach using the MovieLens 100K dataset and deployed on Hugging Face Spaces.
 
 #LIVE DEMO LINK:
 https://huggingface.co/spaces/Sirisha-0308/movie-recommender
