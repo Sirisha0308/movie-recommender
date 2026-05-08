@@ -1,0 +1,3 @@
+echo "cf_model.pkl" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
